@@ -53,7 +53,7 @@ GitHub Pages 对经营线上业务、商业交易及商业 SaaS 有用途限制�
 window.ARTBRIDGE_CONFIG = {
   publishFormUrl: '', // 项目登记表的公开填写地址
   joinFormUrl: '',    // 合作申请表的公开填写地址
-  defaultLanguage: 'zh'
+  defaultLanguage: 'en'
 };
 ```
 

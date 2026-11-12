@@ -2,5 +2,5 @@
 window.ARTBRIDGE_CONFIG = {
   publishFormUrl: '',
   joinFormUrl: '',
-  defaultLanguage: 'zh'
+  defaultLanguage: 'en'
 };

@@ -2,38 +2,40 @@
 
 Finish your first project together.
 
-**[进入 ArtBridge](https://nicolat777.github.io/artbridge/index.html)**
+English | [简体中文](README.zh-CN.md)
 
-ArtBridge 是一个面向年轻创作者的协作项目，希望帮助拥有不同技能的人找到彼此，一起完成第一件作品。它连接影像、音乐、写作、美术、编程与设计，让一个尚未成形的想法，有机会成为可以分享的作品。
+**[Open ArtBridge](https://nicolat777.github.io/artbridge/index.html)**
 
-## 为什么做 ArtBridge
+ArtBridge is a collaboration project for emerging creators. It aims to help people with different skills find each other and finish their first piece of work together. It brings film, music, writing, art, programming, and design into a shared space where an unfinished idea can become something worth sharing.
 
-一支短片可能缺一段配乐，一个小游戏可能缺几张插画，一篇故事也可能正在等待视觉表达。ArtBridge 关注这些具体的创作需求：让创作者说清楚自己想做什么、需要什么帮助，再与技能互补的搭档一起推进。
+## Why ArtBridge
 
-我们希望合作不只停留在认识彼此，还能走到交换初稿、提供反馈和共同署名发布作品。
+A short film might need a score. A small game might need illustrations. A story might be waiting for a visual interpretation. ArtBridge focuses on these specific creative needs: explaining what you want to make, finding the skills you need, and working with a complementary partner.
 
-## 现在可以体验什么
+The aim is to take collaboration beyond an introduction, through early drafts and useful feedback, to a finished piece that credits everyone involved.
 
-- 浏览概念项目，按关键词、所需技能和协作语言筛选。
-- 查看项目目标、预期成果、所需角色与合作方式。
-- 收藏感兴趣的项目，填写项目想法或合作申请草稿。
-- 保存、复制或导出草稿，整理下一次创作计划。
-- 在电脑和手机上使用中文或英文界面。
+## What you can explore today
 
-网站采用深色画廊和瀑布流布局，让作品图像成为浏览的中心。
+- Browse concept projects and filter by keywords, skills needed, and working language.
+- Read project goals, expected outcomes, roles, and suggested ways to collaborate.
+- Save interesting projects and draft a project brief or collaboration request.
+- Save, copy, or export drafts to prepare your next creative project.
+- Use the website on desktop or mobile, in English or Chinese. English is the default for new visitors; an explicitly selected language is remembered.
 
-## 当前阶段
+A dark gallery and masonry layout put the artwork at the center of the browsing experience.
 
-ArtBridge 目前是 MVP 公开体验版，无需登录即可浏览。
+## Current stage
 
-项目广场中的内容均为概念示例，尚未开放真实招募。收藏和草稿只保存在当前浏览器；保存或导出不会自动提交。账号、跨设备同步和真实报名接收仍待接入。
+ArtBridge is a public MVP preview. No sign-in is needed to browse.
 
-页面封面是为这些虚构项目生成的艺术概念图，不代表用户已经完成的真实作品。
+The project board contains concept examples, not active recruitment listings. Saved projects and drafts stay in the current browser; saving or exporting does not submit anything. Accounts, cross-device sync, and real application collection are not connected yet.
 
-## 接下来
+The cover images were generated as concept artwork for these fictional projects. They do not represent finished work by real users.
 
-计划邀请国内和海外的创作者进行小范围试用，围绕短周期项目验证从提出需求、找到搭档到完成作品的合作流程，并根据实际使用反馈继续完善。
+## What's next
+
+The plan is to invite a small group of creators in China and abroad to try short projects, testing the journey from sharing a brief and finding a partner to finishing a piece together. Feedback from those collaborations will guide the next version.
 
 ---
 
-[开发与部署说明](DEVELOPMENT.md) · [概念封面与生成说明](IMAGE_PROMPTS.md)
+[Development and deployment guide (Chinese)](DEVELOPMENT.md) · [Concept artwork and generation notes](IMAGE_PROMPTS.md)
